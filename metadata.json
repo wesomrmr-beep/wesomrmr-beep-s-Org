@@ -1,0 +1,8 @@
+{
+  "name": "Remix صُنّاع — أهل الخبرة في خدمتك",
+  "description": "منصة وساطة إلكترونية ودليل مهني لربط العملاء بأصحاب المهن الحرة والحرفيين والمقاولين وخدمات النقل والخدمات العامة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
